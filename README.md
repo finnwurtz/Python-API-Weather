@@ -5,7 +5,7 @@ In this program, latitude is the independent variable, a variety of weather phen
 
 Analysis of the program's output provides users with a few key findings. First, mean temperatures are highest in cities that are closer to the equator. Second, cities with low humidity are concentrated in the middle latitudes. And third, wind speed and cloudiness have a relatively uniform distribution at all latitudes. Graphic outputs are included below for clarity:
 
-
+/
 
 ![Image of Temperature Graph Code](images/Lat_Temp_Graph.png)
 
