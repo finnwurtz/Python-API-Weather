@@ -1,5 +1,5 @@
 # Python-API-Weather
-This program uses API calls and the Pandas library to analyze global weather patterns.
+This program uses API calls and the Pandas library to analyze global weather patterns by latitude.
 
 In this program, latitude is the independent variable, a variety of weather phenomena are measured as potential dependent variables, and cities are the unit of analysis. The program assembles a representative list of cities across the world by generating sets of random coordinates and finding the closest city from the [Citipy](https://pypi.org/project/citipy/) library. The program matches each city to its weather statistics by making calls to the [Openweathermap](https://openweathermap.org/api) API. Finally, the program organizes and plots the data using Pandas and Matplotlib. The program is organized using a Jupyter notebook.
 
