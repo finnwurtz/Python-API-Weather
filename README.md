@@ -1,5 +1,5 @@
 # Python-API-Weather
-This program uses API calls and the Pandas library to analyze global weather patterns by latitude.
+This program uses API calls and the Pandas library to analyze global weather patterns.
 
 Technologies Used: Python, Pandas, MatPlotLib, Jupyter Notebook, Citipy Library, Openweathermap API
 
